@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rexml (3.3.6)
+      strscan
+    rss (0.3.1)
+      rexml
+    strscan (3.1.0)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  rss
+
+BUNDLED WITH
+   2.5.3
