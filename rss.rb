@@ -81,7 +81,6 @@ class RSSReader
       puts "Invalid number. Please try again"
     end
   end
-
 end
 
 rss_reader = RSSReader.new
